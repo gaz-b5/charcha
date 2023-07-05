@@ -9,7 +9,7 @@ body {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background: rgb(63, 73, 204);
+  background: #1a1a1a;
 }
 ::-webkit-scrollbar {
   width: 20px;
@@ -43,6 +43,16 @@ body {
   background: rgb(153, 217, 234);
   color: rgb(0, 24, 111);
 }
+.btn-sendmessage {
+  border-radius: 10px 40px 40px 10px;
+  font-family: "Montserrat", sans-serif;
+  height: 60px;
+  width: 20%;
+  background-color: #1a1a1a;
+  border: 2px solid #a3f7b5;
+  color: #a3f7b5;
+  transition: all 0.1s ease-in-out;
+}
 .btn-secondary {
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
@@ -51,4 +61,40 @@ body {
 }
 .btn:active {
   background-color: #1f645f;
+}
+
+.btn-sendmessage:hover {
+  background-color: #a3f7b5;
+  color: #1a1a1a;
+  border: 0;
+}
+.btn-sendmessage:active {
+  background-color: #a3f7b5;
+  color: #1a1a1a;
+  border: 0;
+  box-shadow: inset 0 0 10px;
+}
+
+.btn-leave {
+  border-radius: 10px;
+  font-family: "Montserrat", sans-serif;
+  height: 60px;
+  width: 80%;
+  position: absolute;
+  bottom: 0;
+  background-color: #1a1a1a;
+  border: 2px solid #e91f63;
+  color: #e91f63;
+  transition: all 0.1s ease-in-out;
+}
+.btn-leave:hover {
+  background-color: #e91f63;
+  color: #1a1a1a;
+  border: 0;
+}
+.btn-leave:active {
+  background-color: #e91f63;
+  color: #1a1a1a;
+  border: 0;
+  box-shadow: inset 0 0 10px;
 }
