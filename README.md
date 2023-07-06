@@ -9,3 +9,7 @@ With a minimalist UI
 ![Screenshot 2023-07-06 025529](https://github.com/gaz-b5/charcha/assets/100520652/4c3c1f51-b905-4c0b-ab6f-e3a75ad99a07)
 </br></br></br></br>
 [![Video Demonstration](https://img.youtube.com/vi/ADF7yj2i6zw/0.jpg)](https://www.youtube.com/watch?v=ADF7yj2i6zw)
+
+
+https://github.com/gaz-b5/charcha/assets/100520652/517b4745-9910-453f-9d9f-1631e5a61b07
+
