@@ -11,5 +11,3 @@ With a minimalist UI
 [![Video Demonstration](https://img.youtube.com/vi/ADF7yj2i6zw/0.jpg)](https://www.youtube.com/watch?v=ADF7yj2i6zw)
 
 
-https://github.com/gaz-b5/charcha/assets/100520652/517b4745-9910-453f-9d9f-1631e5a61b07
-
