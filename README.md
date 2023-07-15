@@ -1,4 +1,4 @@
-# CHARCHA
+# CHARCHA - Real Time Web Chat App
 Real time chatting web-app, with room based group chatting.
 
 
