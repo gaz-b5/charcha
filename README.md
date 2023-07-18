@@ -1,5 +1,5 @@
 # CHARCHA - Real Time Web Chat App
-Real time chatting web-app, with room based group chatting.
+Real time chatting web-app, with user-friendly room based group chatting.
 
 
 ![Screenshot 2023-07-06 025629](https://github.com/gaz-b5/charcha/assets/100520652/7aba87ef-eac4-4232-bbf6-d0b6ca2763c0)
